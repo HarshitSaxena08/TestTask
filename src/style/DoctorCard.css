@@ -1,0 +1,46 @@
+.docCard {
+    background-image: #FFF7E2;
+    border: 1px solid #E3E3E3;
+    border-radius: 30px;
+    box-shadow: 0px 4px 12.5px 0px #00000012;
+    align-items: center;
+    /* width: 33%; */
+    width: 356px;
+}
+
+.innearDocDiv {
+    background-color: aqua;
+    margin: 29px;
+    text-align: center;
+
+}
+
+
+.doctorRating {
+    margin-left: 45%;
+    margin-top: -23px;
+    position: relative;
+    padding: 2px 4px 2px 4px;
+    background: linear-gradient(180deg, #0B0B0B 0%, rgba(11, 11, 11, 0.79) 100%);
+    border-radius: 17px;
+    font-size: small;
+    align-items: center;
+    Gap: 10px;
+    color: #E3E3E3;
+    width: fit-content;
+}
+
+.doctorNam{
+    font-family: 'Nunito';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    /* align-content: center; */
+    /* align-self: center; */
+    /* align-items: center; */
+    color:#2E2F2E;
+    margin-left: 23%;
+
+}
